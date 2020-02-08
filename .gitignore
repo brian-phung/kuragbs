@@ -1,0 +1,12 @@
+!*.d.ts
+!*.html
+
+node_modules/**
+node_modules/**/.*/**
+node_modules/**/.*
+
+!types/**
+!types/**/.*/**
+!types/**/.*
+
+package-lock.json
