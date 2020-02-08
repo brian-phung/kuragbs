@@ -1,4 +1,4 @@
-export declare namespace KuraGBS {
+export declare namespace KuraGBS.Config {
     const CONSTS: {
         CHARS: {
             OPEN: string;
